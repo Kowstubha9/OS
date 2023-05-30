@@ -1,5 +1,5 @@
 # Open the file for writing
-with open('file.txt', 'w') as f:
+with open('file_AI&DE.txt', 'w') as f:
 	# Define the data to be written
 	data = ['This is the first line', 'This is the second line', 'This is the third line']
 	# Use a for loop to write each line of data to the file
